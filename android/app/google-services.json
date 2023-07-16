@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425738739315",
+    "project_id": "evot-57729",
+    "storage_bucket": "evot-57729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425738739315:android:c1c248572a84d016801406",
+        "android_client_info": {
+          "package_name": "com.example.senior_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425738739315-41m6o8c7k6gilkdu9d45867m59h05des.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsLPZdX0dYrXPM-SHiUiIetAzBJ94gcxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425738739315-41m6o8c7k6gilkdu9d45867m59h05des.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
